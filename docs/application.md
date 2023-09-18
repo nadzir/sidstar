@@ -22,8 +22,8 @@ curl localhost:8000/health
 ### URLS
 
 API Documentation
-- http://localhost:8000/docs
-- http://localhost:8000/redocs
+- http://thales.ethsock.com/docs
+- http://thales.ethsock.com/redocs
 
 ### Folder Structure
 

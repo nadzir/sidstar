@@ -107,5 +107,5 @@ jobs:
     steps:
     - name: Health Check
       run: |
-        curl --fail-with-body thales.ethsock.com/health
+        curl --fail-with-body http://thales.ethsock.com/health
       shell: bash

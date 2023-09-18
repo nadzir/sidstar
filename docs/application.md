@@ -25,6 +25,10 @@ API Documentation
 - http://thales.ethsock.com/docs
 - http://thales.ethsock.com/redocs
 
+Deliverables
+- http://thales.ethsock.com/api/waypoint/WSSS/sid/top
+- http://thales.ethsock.com/api/waypoint/WSSS/star/top
+
 ### Folder Structure
 
 ```
